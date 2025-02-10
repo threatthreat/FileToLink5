@@ -1,2 +1,2 @@
-from FileToLink.config import Config, Strings
-from FileToLink.client import bot
+from markupsafe import escape
+from jinja2 import Markup
